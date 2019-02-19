@@ -1,0 +1,126 @@
+body {
+  background: #660066;
+  display: flex;
+  height: 100vh;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+.sourceCodebody {
+       background: #660066;
+  align-content: center;
+  align-items: center;
+     height: 150vh;
+
+}
+
+.sourceCodeh1 {
+      
+  
+  font-family: 'Lobster', cursive; font-size: 50pt;
+  font-weight: 600;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+     background: #737373;
+     float: top;
+     width: 20%;
+     
+     
+
+}
+
+.sourceCodep {
+     background: #bfbfbf;
+     width: 60%;
+     font-size: .7em;
+}
+
+h1 {
+  
+  font-family: 'Lobster', cursive; font-size: 50pt;
+  font-weight: 600;
+  margin: 0 auto;
+  text-align: center;
+  padding: 30px;
+  color: white;
+}
+
+h6 {
+    font-family: 'Lobster', cursive; font-size: 30pt;
+    font-weight: 600;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+
+.footer {
+    float: center;
+    font-family: 'Comfortaa', cursive;
+}
+
+p {
+  font-family: 'Lobster', cursive; font-size: 20pt;
+  font-weight: 600;
+  margin: 0 auto;
+  text-align: center;
+  padding: 30px;
+  color: white;
+}
+
+p a {
+  text-decoration: none;
+  color: #f1c40f;
+}
+
+#bingotable {
+  margin: 0 auto;
+  text-align: center;
+  width: 500px;
+  height: 500px;
+  border-collapse: collapse;
+  background: white;
+}
+
+th {
+    font-family: 'Lobster', cursive;
+    margin: 0 auto;
+    text-align: center;
+    text-emphasis: float;
+    border: 3px solid black;
+    width: 20%;
+}
+
+td {
+  float: up;
+  font-family: 'Comfortaa', cursive;
+  margin: 0 auto;
+  text-align: center;
+  text-emphasis: float;
+  border: 3px solid black;
+  width: 20%;
+}
+
+.orange {
+  background: red;
+  font: 3em sans-serif;
+}
+
+.reset {
+  float: right;
+  padding: 5px;
+}
+
+.button {
+     padding-top: 10px;
+}
+
+button {
+  background: red;
+  border: solid black;
+}
+
+td {
+  background: light gray;
+}
